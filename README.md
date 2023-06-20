@@ -1,8 +1,8 @@
 ## Experience
 
-### React Developer at M-softs Software
+### React Developer Intern at M-softs Software
 
-Dec 2022 -- Apr 2023 (Remote)
+Dec 2022 -- May 2023 (Remote)
 
 - Developed intuitive and responsive user interface for **Grocery Store E-commerce** admin panel using **ReactJs and Redux**.
 - Effectively managed a vast inventory of **500+ products** within the application, and seamless display on the page.
